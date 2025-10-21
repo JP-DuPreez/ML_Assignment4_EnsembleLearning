@@ -1,0 +1,8 @@
+{
+  "model": "SVC(RBF)+Calibration",
+  "best_params": {
+    "clf__estimator__C": 10.0,
+    "clf__estimator__gamma": 0.01
+  },
+  "best_score_roc_auc": 0.9860681114551083
+}

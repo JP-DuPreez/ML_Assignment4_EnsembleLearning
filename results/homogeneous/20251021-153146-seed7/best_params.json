@@ -1,0 +1,10 @@
+{
+  "model": "RandomForest",
+  "best_params": {
+    "clf__max_depth": null,
+    "clf__max_features": "sqrt",
+    "clf__min_samples_split": 2,
+    "clf__n_estimators": 300
+  },
+  "best_score_roc_auc": 0.9828173374613002
+}

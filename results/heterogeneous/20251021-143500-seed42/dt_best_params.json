@@ -1,0 +1,10 @@
+{
+  "model": "DecisionTree+Calibration",
+  "best_params": {
+    "clf__estimator__ccp_alpha": 0.001,
+    "clf__estimator__max_depth": 5,
+    "clf__estimator__min_samples_leaf": 5,
+    "clf__estimator__min_samples_split": 2
+  },
+  "best_score_roc_auc": 0.973374613003096
+}

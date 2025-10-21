@@ -1,0 +1,16 @@
+col1,col2,pearson_r
+radius_mean,perimeter_mean,0.9978401373437952
+radius_worst,perimeter_worst,0.9935904797515053
+radius_mean,area_mean,0.9871673788307387
+perimeter_mean,area_mean,0.9865209993089256
+radius_worst,area_worst,0.9840389565737204
+perimeter_worst,area_worst,0.9774443209671838
+radius_se,perimeter_se,0.9728370838293015
+perimeter_mean,perimeter_worst,0.9698745393903162
+perimeter_mean,radius_worst,0.9693693527080612
+radius_mean,radius_worst,0.9691731580072975
+radius_mean,perimeter_worst,0.9641200719530502
+area_mean,radius_worst,0.9624995910126347
+area_mean,perimeter_worst,0.9591305148240011
+area_mean,area_worst,0.9590600519633494
+radius_se,area_se,0.9521713886863037

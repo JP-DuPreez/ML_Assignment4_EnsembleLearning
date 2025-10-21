@@ -1,0 +1,19 @@
+{
+  "duplicate_rows": 0,
+  "id_unique": 563,
+  "id_is_unique_key": false,
+  "n_constant_cols": 1,
+  "n_near_constant_cols": 0,
+  "n_high_cardinality_cats": 30,
+  "n_mixed_type_suspected": 0,
+  "n_high_corr_pairs_abs_ge_0_95": 15,
+  "rows": 569,
+  "columns": 34,
+  "target": "diagnosis",
+  "class_counts": {
+    "0": 357,
+    "1": 212
+  },
+  "imbalance_ratio_minority_majority": 0.5938375350140056,
+  "missing_total_cells": 133
+}

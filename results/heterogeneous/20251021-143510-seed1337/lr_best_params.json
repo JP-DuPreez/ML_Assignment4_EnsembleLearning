@@ -1,0 +1,7 @@
+{
+  "model": "LogisticRegression+Calibration",
+  "best_params": {
+    "clf__estimator__C": 1.0
+  },
+  "best_score_roc_auc": 0.9865841073271415
+}

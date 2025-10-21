@@ -1,0 +1,35 @@
+column,dtype,n_unique
+id,object,563
+diagnosis,object,2
+radius_mean,object,451
+texture_mean,object,477
+perimeter_mean,object,520
+area_mean,object,534
+smoothness_mean,object,475
+compactness_mean,object,534
+concavity_mean,object,531
+concave points_mean,object,540
+symmetry_mean,object,429
+fractal_dimension_mean,object,497
+radius_se,object,537
+texture_se,object,516
+perimeter_se,object,530
+area_se,object,525
+smoothness_se,object,543
+compactness_se,object,535
+concavity_se,object,531
+concave points_se,object,505
+symmetry_se,object,493
+fractal_dimension_se,object,540
+radius_worst,object,454
+texture_worst,object,507
+perimeter_worst,object,512
+area_worst,object,538
+smoothness_worst,object,409
+compactness_worst,object,525
+concavity_worst,object,534
+concave points_worst,object,490
+symmetry_worst,object,498
+fractal_dimension_worst,float64,535
+gender,object,1
+Bratio,float64,569
